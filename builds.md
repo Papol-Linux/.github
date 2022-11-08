@@ -1,0 +1,2 @@
+- `Build 1:` Basic OS - my very first build. Has VsCode, Chrome, Bitwarden installed out of the box
+- `Build 2:` Papol Linux - has a macos like theme, not perfect, very buggy 
