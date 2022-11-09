@@ -9,7 +9,8 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/36286877/200473174-47590fa6-5016-4614-a208-5688bf670a93.png)
+![image](https://user-images.githubusercontent.com/36286877/200767300-408ed29e-e75c-4b35-9074-0b4d0ccc1f3a.png)
+
 
 This is a customized version of Ubuntu built by the community, that has a Mac OS like look, which also comes preinstalled with many useful tools that are being used on a daily basis by the end user
 
