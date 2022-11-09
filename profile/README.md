@@ -1,13 +1,30 @@
-## Hi there 👋
+# Welcome to Papol Linux
 
-**NOTE:** This is still under development
+<p align="center">
+  <img src="https://github.com/Papol-Linux/artwork/raw/main/logo/1080x560-logo-with-text.png" alt="Papol Linux" width='350'>
+</p>
+
+## **( This project is still in it early stage of development )**
+
+<br>
 
 ![image](https://user-images.githubusercontent.com/36286877/200473174-47590fa6-5016-4614-a208-5688bf670a93.png)
 
+This is a customized version of Ubuntu built by the community, that has a Mac OS like look, which also comes preinstalled with many useful tools that are being used on a daily basis by the end user
 
-- 🙋‍♀️ A short introduction - This is a highly customized version of Ubuntu (unofficial/community made) that works out of the box, perfectly and stably that looks just like a mac for the apple fans out there
-- 🌈 Contribution guidelines - Its all still under development, You can contact me via an email: hirushaadi@gmail.com
-- 🍿 Versions - I'm planning to make two versions, one aimed for the general user/newbie to linux and the other for developers with many useful tools, both mac-os themed
+## Useful Links:
+
+- Documentation - UNDER DEVELOPMENT
+- [Builds](https://github.com/Papol-Linux/.github/blob/main/builds.md)
 
 
-- **More information will be updated soon**
+## Contact Me:
+
+Make sure to contact me if you want to contribute or if theres any issue that concerns you
+
+- **email:** hirushaadi@gmail.com
+- **discord:** `ZeaCeR#5641`
+- **twitter:** [@hirushaadi](https://twitter.com/hirushaadi/)
+
+
+## built with 💖 by [@hirushaadi](https://github.com/hirusha-adi) 
