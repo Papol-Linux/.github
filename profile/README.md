@@ -9,10 +9,9 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/36286877/200767300-408ed29e-e75c-4b35-9074-0b4d0ccc1f3a.png)
+![image](https://user-images.githubusercontent.com/36286877/213933796-8500c615-5253-4fec-80e0-7dd3c973b123.png)
 
-
-This is a customized version of Ubuntu built by the community, that has a Mac OS like look, which also comes preinstalled with many useful tools that are being used on a daily basis by the end user
+This is a customized version of Ubuntu built by the community, that has a Mac OS like look, which also comes preinstalled with many useful tools that are being used on a daily basis by the end user while still maintaining to be lightweight - uses less than 1GB of ram at idle.
 
 ## Useful Links:
 
