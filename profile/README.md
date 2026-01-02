@@ -24,7 +24,6 @@ This is a customized version of Ubuntu built by the community, that has a Mac OS
 Make sure to contact me if you want to contribute or if theres any issue that concerns you
 
 - **email:** hirushaadi@gmail.com
-- **discord:** `ZeaCeR#5641`
 - **twitter:** [@hirushaadi](https://twitter.com/hirushaadi/)
 
 
